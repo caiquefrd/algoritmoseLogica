@@ -1,0 +1,12 @@
+{
+  "name": "aula4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exec": "node ./src/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
